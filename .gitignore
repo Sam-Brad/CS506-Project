@@ -1,0 +1,7 @@
+venv/
+main.py/
+data.csv/
+outpu.*/
+__pycache__/
+*.pyc
+.DS_Store
