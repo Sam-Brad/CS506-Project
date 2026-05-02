@@ -1,4 +1,6 @@
 # CS506-Project
+github repo:
+https://github.com/Sam-Brad/CS506-Project.git
 
 ## Final Report
 https://youtu.be/TBWAWLVEdZ8
@@ -15,7 +17,7 @@ https://youtu.be/TBWAWLVEdZ8
   The full dataset of all Magic cards can be found online.  This website (https://mtgjson.com/getting-started/) offers data files in multiple formats containing all the cards ever made.  For this project, I downloaded the csv file.
 
 ### Data Visualization:
-  By processing certain features of previous cards, the model will show correlation between certain effects and colour identities.  Other visualizations will include correlation between total cost versus colour identity, as well as heatmaps checking the validation of the model.
+  By processing certain features of previous cards, the model will show correlation between certain effects and colour identities.  Other visualizations will include correlation between total cost versus colour identity, as well as heatmaps checking the validation of the model.  Check the file code.ipynb for data visualizations.
 
 ## Running the code
 
